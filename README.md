@@ -1,10 +1,10 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VannsKang&layout=compact&theme=radical)](https://github.com/VannsKang/)[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VannsKang&show_icons=true&theme=radical)](https://github.com/VannsKang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VannsKang&layout=compact&theme=buefy&align=center)](https://github.com/VannsKang/)[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VannsKang&show_icons=true&theme=buefy&align=center)](https://github.com/VannsKang/github-readme-stats)
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wecode-bootcamp-korea&repo=13-brokurly-frontend&theme=radical&align=center)](https://github.com/VannsKang/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wecode-bootcamp-korea&repo=13-brokurly-frontend&theme=buefy&align=center)](https://github.com/VannsKang/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
