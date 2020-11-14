@@ -14,7 +14,7 @@
 - 📫 How to reach me **vannskang@gmail.com**
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wecode-bootcamp-korea&repo=13-brokurly-frontend&theme=buefy&align=center)](https://github.com/wecode-bootcamp-korea/13-brokurly-frontend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wecode-bootcamp-korea&repo=13-brokurly-frontend&theme=buefy&align=center)](https://github.com/wecode-bootcamp-korea/13-brokurly-frontend)[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wecode-bootcamp-korea&repo=13-aircnb-frontend&theme=buefy&align=center)](https://github.com/wecode-bootcamp-korea/13-aircnb-frontend)
 
 <span align="center">[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VannsKang&show_icons=true&theme=buefy&align=center)](https://github.com/VannsKang/github-readme-stats)</span>
 <span align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VannsKang&layout=compact&theme=buefy&align=center)](https://github.com/VannsKang/)</span>
