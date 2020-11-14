@@ -1,7 +1,6 @@
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Soomyung 👋
 
-<h1 align="center">Hi 👋, I'm Soomyung</h1>
 <h3 align="center">A passionate frontend developer from South Korea</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vannskang&label=Profile%20views&color=0e75b6&style=flat" alt="vannskang" /> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVannsKang%2Fhit-counter&count_bg=%23C83D80&title_bg=%2318153B&icon=nucleo.svg&icon_color=%23E7E7E7&title=soom&edge_flat=false" alt="vannskang" />  </p>
@@ -16,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/soomyungkang/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/soomyungkang/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/soomyungkang/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/soomyungkang/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,7 +25,7 @@
 <span align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VannsKang&layout=compact&theme=buefy&align=center)](https://github.com/VannsKang/)</span>
 <span align="center">[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VannsKang&show_icons=true&theme=buefy&align=center)](https://github.com/VannsKang/github-readme-stats)</span>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wecode-bootcamp-korea&repo=13-brokurly-frontend&theme=buefy&align=center)](https://github.com/VannsKang/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wecode-bootcamp-korea&repo=13-brokurly-frontend&theme=buefy&align=center)](https://github.com/wecode-bootcamp-korea/13-brokurly-frontend)
 
 <!--
 ### Hi there 👋
