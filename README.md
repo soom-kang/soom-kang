@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vannskang" alt="vannskang" /></a> </p>
 
-- 🌱 I’m currently learning **Redux, React Hooks**
+- 🌱 I’m currently learning **Wepack, Vuex**
 
 - 📝 I regulary write articles on [velog.io/@soom](velog.io/@soom)
 
