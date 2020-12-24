@@ -6,7 +6,7 @@
 </h3>
 
 
-- 🌱 I’m currently learning **Wepack, Vuex**
+- 🌱 I’m currently learning **Next.js, Typescript**
 
 - 📝 I regulary write articles on [velog.io/@soom](velog.io/@soom)
 
