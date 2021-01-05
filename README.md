@@ -53,4 +53,4 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVannsKang%2Fhit-counter&count_bg=%23549BCB&title_bg=%23BCBCBC&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=thank%20you~&fontSize=50&animation=twinkling&fontAlign=70&fontAlignY=80&rotate=-5)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=yeeeesss%20rules~!!&fontSize=50&animation=twinkling&fontAlign=70&fontAlignY=80&rotate=-5)
