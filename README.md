@@ -34,14 +34,17 @@
 <br><br>
 <h3 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h3>
 <p align="center">
-  <a href="https://soomyung.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white&link=https://soomyung.medium.com/"/>
-  </a>&nbsp
   <a href="https://velog.io/@soom">
     <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@soom"/>
-  </a>&nbsp
+  </a>&nbsp  
   <a href="https://www.notion.so/soomyungkang/Soomyung-Kang-cfcfd738e60841aebb5ff41c815de405">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/soomyungkang/Soomyung-Kang-cfcfd738e60841aebb5ff41c815de405"/>
+  </a>&nbsp
+  <a href="https://soomyung.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white&link=https://soomyung.medium.com/"/>
+  </a>&nbsp  
+  <a href="https://leetcode.com/soomyung/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/soomyung/"/>
   </a>&nbsp
   <a href="mailto:vannskang@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=vannskang@gmail.com"/>
