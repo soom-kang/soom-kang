@@ -37,6 +37,9 @@
   <a href="https://velog.io/@soom">
     <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@soom"/>
   </a>&nbsp  
+  <a href="https://www.linkedin.com/in/soomyungkang/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/soomyungkang/"/>
+  </a>&nbsp    
   <a href="https://www.notion.so/soomyungkang/Soomyung-Kang-cfcfd738e60841aebb5ff41c815de405">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/soomyungkang/Soomyung-Kang-cfcfd738e60841aebb5ff41c815de405"/>
   </a>&nbsp
