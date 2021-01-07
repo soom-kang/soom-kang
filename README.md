@@ -33,6 +33,7 @@
 
 <br><br>
 <h3 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h3>
+<p align="center"> Developer / former Mechanical Engineer </p>
 <p align="center">
   <a href="https://velog.io/@soom">
     <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@soom"/>
