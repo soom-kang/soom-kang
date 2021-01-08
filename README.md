@@ -44,9 +44,9 @@
   <a href="https://www.notion.so/soomyungkang/Soomyung-Kang-cfcfd738e60841aebb5ff41c815de405">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/soomyungkang/Soomyung-Kang-cfcfd738e60841aebb5ff41c815de405"/>
   </a>&nbsp
-  <a href="https://soomyung.medium.com/">
+<!--   <a href="https://soomyung.medium.com/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=Medium&logoColor=white&link=https://soomyung.medium.com/"/>
-  </a>&nbsp  
+  </a>&nbsp   -->
 <!--   <a href="https://leetcode.com/soomyung/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/soomyung/"/>
   </a>&nbsp -->
