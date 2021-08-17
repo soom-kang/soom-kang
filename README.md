@@ -43,8 +43,8 @@
 <h3 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h3>
 <p align="center"> Developer / former Mechanical Engineer </p>
 <p align="center">
-  <a href="https://soomlog.vercel.app/">
-    <img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Vercel&logoColor=white&link=https://velog.io/@soom"/>
+  <a href="https://www.soomlog.tech/">
+    <img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Vercel&logoColor=white&link=https://www.soomlog.tech/"/>
   </a>&nbsp
   <a href="https://www.linkedin.com/in/soomyungkang/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/soomyungkang/"/>
