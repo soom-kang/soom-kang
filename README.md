@@ -5,6 +5,9 @@
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=flat-square&logo=WebAssembly&logoColor=white"/>&nbsp
+  <br/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue%2Ejs&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>&nbsp
@@ -63,7 +66,7 @@
 
 <br><br>
 <h3 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h3>
-<p align="center"> All-Rounder Developer </p>
+<p align="center">🐈‍ Proud owner of thousands of dogs and cats memes. 🐈‍⬛</p>
 <p align="center">
 <!--   <a href="https://www.soomlog.tech/">
     <img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Vercel&logoColor=white&link=https://www.soomlog.tech/"/>
