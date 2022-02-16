@@ -41,10 +41,12 @@
 <!--   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>&nbsp  -->
 <!--   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp  -->
   <br/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>&nbsp  
   <img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>&nbsp 
+<!--   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/>&nbsp  -->
 <!--   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>&nbsp -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>&nbsp
+<!--   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>&nbsp -->
 <!--   <img src="https://img.shields.io/badge/Zeplin-FFCF33?style=flat-square&logo=Waze&logoColor=white"/>&nbsp -->
 <!--   <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logo=Adobe%20XD&logoColor=white"/>&nbsp -->
   <br/>
@@ -66,7 +68,7 @@
 
 <br><br>
 <h3 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h3>
-<p align="center">🐈‍ Proud owner of thousands of dogs and cats memes. 🐈‍⬛</p>
+<p align="center">🐈‍&nbsp;&nbsp; Proud owner of thousands of dogs and cats memes. 🐈‍⬛</p>
 <p align="center">
 <!--   <a href="https://www.soomlog.tech/">
     <img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Vercel&logoColor=white&link=https://www.soomlog.tech/"/>
