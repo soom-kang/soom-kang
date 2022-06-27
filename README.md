@@ -66,6 +66,10 @@
 <!--   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/>&nbsp -->
 <!--   <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=Windows%20Terminal&logoColor=white"/>&nbsp --> 
   
+  <br/>
+  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=Turborepo&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Lerna-9333EA?style=flat-square&logo=Lerna&logoColor=white"/>&nbsp 
+  
 </p>
 
 
