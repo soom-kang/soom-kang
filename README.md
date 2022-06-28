@@ -67,8 +67,9 @@
 <!--   <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=Windows%20Terminal&logoColor=white"/>&nbsp --> 
   
   <br/>
-  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=Turborepo&logoColor=white"/>&nbsp 
+<!--   <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=Turborepo&logoColor=white"/>&nbsp -->
   <img src="https://img.shields.io/badge/Lerna-9333EA?style=flat-square&logo=Lerna&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Yarn Berry-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/>&nbsp 
   
 </p>
 
