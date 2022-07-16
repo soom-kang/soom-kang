@@ -14,10 +14,11 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next%2Ejs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt%2Ejs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Svelte Kit-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>
+
   <br/>
-  
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=Strapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white"/>
 
   <br/>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=Tailwind%20CSS&logoColor=white"/>
@@ -26,7 +27,7 @@
   <br/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
   
   <br/>
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=white"/>
@@ -35,7 +36,6 @@
   
   <br/>
   <img src="https://img.shields.io/badge/Lerna-9333EA?style=flat-square&logo=Lerna&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=Turborepo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Yarn Berry-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/>
   <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white"/>
   
