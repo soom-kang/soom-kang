@@ -62,11 +62,11 @@
 
 <p align="center">
 
-  <a href="https://dev.to/soom/" target="_blank" rel="noopener noreferrer">
+  <a href="https://dev.to/soom/">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev%2Eto&logoColor=white"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/soomyungkang/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/soomyungkang/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/>
   </a>
   
