@@ -50,16 +50,27 @@
   <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white"/>
 </p>
 
-<br><br>
-<h3 align="center"> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> Me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> </h3>
+<br />
+
+<h3 align="center"> 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> 
+  Me 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px"> 
+</h3>
+
 <p align="center">🐈‍&nbsp;&nbsp; Proud owner of thousands of dogs and cats memes. 🐈‍⬛</p>
+
 <p align="center">
-<!--   <a href="https://www.soomlog.tech/">
-    <img src="https://img.shields.io/badge/Tech%20Blog-000000?style=flat-square&logo=Vercel&logoColor=white&link=https://www.soomlog.tech/"/>
-  </a>&nbsp -->
+
+  <a href="https://dev.to/soom/">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=dev%2Eto&logoColor=white"/>
+  </a>
+  
   <a href="https://www.linkedin.com/in/soomyungkang/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/soomyungkang/"/>
-  </a>&nbsp
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white"/>
+  </a>
+  
+  
 <!--   <a href="mailto:vannskang@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=vannskang@gmail.com"/>
   </a>&nbsp -->
