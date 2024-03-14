@@ -49,7 +49,7 @@
   
   <!-- etc -->
   <br/>
-  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Yarn Berry-2C8EBB?style=flat-square&logo=Yarn&logoColor=white"/>
   <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -78,8 +78,10 @@
   <br/>
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=Salesforce&logoColor=white"/>
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=SAP&logoColor=white"/>
+  
   <br/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white"/>
+  
 
 </p>
 
